@@ -119,5 +119,5 @@ Kimia-Farma-Performance-Analysis/
 │   ├── Combined View.sql
 │   ├── EDA for KF.sql
 └── dashboard/
-└── dashboard_preview.png
+└── dashboard_preview.jpg
 ```
