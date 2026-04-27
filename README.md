@@ -109,15 +109,15 @@ Enhance service quality and product availability to increase satisfaction and re
 ---
 
 ## Repository Structure
-``
+```
 Kimia-Farma-Performance-Analysis/
 │
 ├── README.md
 ├── notebook/
-│ └── kimia_farma_cleaning.ipynb
+│   └── kimia_farma_cleaning.ipynb
 ├── sql/
-│ ├── Combined View.sql
-│ ├── EDA for KF.sql
+│   ├── Combined View.sql
+│   ├── EDA for KF.sql
 └── dashboard/
 └── dashboard_preview.png
-``
+```
